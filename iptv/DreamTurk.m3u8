@@ -1,4 +1,12 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4716800,AVERAGE-BANDWIDTH=4540800,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=30.000
-https://cdn.telecloud.tv/CH7159/tracks-v1a1/mono.ts.m3u8?token=LIVE_B_NnOSZRrnCAZz5Aspslr6Y99G17W7T3na
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=331520,FRAME-RATE=25.00,CODECS="avc1.42001e,mp4a.40.2"
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_0_192/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=492891,FRAME-RATE=25.00,CODECS="avc1.42001e,mp4a.40.2"
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_1_320/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=775503,FRAME-RATE=25.00,CODECS="avc1.42001e,mp4a.40.2"
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_2_550/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1013575,FRAME-RATE=25.00,CODECS="avc1.4d001f,mp4a.40.2"
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_3_750/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1577503,FRAME-RATE=25.00,CODECS="avc1.4d001f,mp4a.40.2"
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
